@@ -15,14 +15,11 @@ namespace Core.Api.Controllers
     [ApiController]
     public class IdentityController : ControllerBase
     {
-        private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly IMediator _mediator;
 
         public IdentityController(
-            SignInManager<ApplicationUser> signInManager,
             IMediator mediator)
         {
-            _signInManager = signInManager;
             _mediator = mediator;
         }
 
