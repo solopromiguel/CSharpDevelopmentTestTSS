@@ -1,4 +1,6 @@
-﻿using Application.Person.Queries.GetPersonAll;
+﻿using Application.Common.Models;
+using Application.Person.Queries.GetPersonAll;
+using Application.Person.Queries.GetPersonsWithPagination;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -20,8 +22,15 @@ namespace Core.Api.Controllers
         {
             _mediator = mediator;
         }
+
         [HttpGet]
-        public async Task<ActionResult<List<PersonDto>>> Get([FromQuery] GetPersonAllQuery query)
+        public async Task<ActionResult<PaginatedList<PersonDto>>> GetPersonsWithPagination([FromQuery] GetPersonsWithPaginationQuery query)
+        {
+            return await _mediator.Send(query);
+        }
+
+        [HttpGet("[action]")]
+        public async Task<ActionResult<List<PersonDto>>> GetAll([FromQuery] GetPersonAllQuery query)
         {
             return await _mediator.Send(query);
         }
