@@ -76,3 +76,9 @@ C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Core.Api\bin\Debug\net5.0\Applic
 C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Core.Api\bin\Debug\net5.0\Infrastructure.dll
 C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Core.Api\bin\Debug\net5.0\Application.pdb
 C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Core.Api\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Core.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Core.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Core.Api\bin\Debug\net5.0\Domain.dll
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Core.Api\bin\Debug\net5.0\Domain.pdb
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Core.Api\bin\Debug\net5.0\SeedData\persons.json
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Core.Api\bin\Debug\net5.0\Newtonsoft.Json.dll

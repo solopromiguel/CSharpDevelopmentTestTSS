@@ -13,3 +13,5 @@ C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Application\obj\Debug\net5.0\App
 C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Application\bin\Debug\net5.0\Infrastructure.dll
 C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Application\bin\Debug\net5.0\Infrastructure.pdb
 C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Application\bin\Debug\net5.0\Domain.dll
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\src\Application\bin\Debug\net5.0\Domain.pdb

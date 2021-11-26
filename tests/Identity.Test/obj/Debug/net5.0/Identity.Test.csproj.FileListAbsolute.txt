@@ -172,3 +172,8 @@ C:\Users\MIGUEL\source\repos\TestCSharpTSS1\tests\Identity.Test\bin\Debug\net5.0
 C:\Users\MIGUEL\source\repos\TestCSharpTSS1\tests\Identity.Test\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
 C:\Users\MIGUEL\source\repos\TestCSharpTSS1\tests\Identity.Test\bin\Debug\net5.0\Serilog.Sinks.File.dll
 C:\Users\MIGUEL\source\repos\TestCSharpTSS1\tests\Identity.Test\bin\Debug\net5.0\Core.Api.StaticWebAssets.xml
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\tests\Identity.Test\bin\Debug\net5.0\SeedData\persons.json
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\tests\Identity.Test\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\tests\Identity.Test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\tests\Identity.Test\bin\Debug\net5.0\Domain.dll
+C:\Users\MIGUEL\source\repos\TestCSharpTSS1\tests\Identity.Test\bin\Debug\net5.0\Domain.pdb

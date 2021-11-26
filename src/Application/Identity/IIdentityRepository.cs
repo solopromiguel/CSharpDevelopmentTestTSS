@@ -1,4 +1,5 @@
-﻿using Application.Identity.Commands.CreateUser;
+﻿using Application.Common.Interfaces;
+using Application.Identity.Commands.CreateUser;
 using Application.Identity.Commands.UserLogin;
 using Application.Identity.Responses;
 using Infrastructure.Identity;
